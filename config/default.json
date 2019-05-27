@@ -1,0 +1,6 @@
+{
+  "jwtPrivateKey": "",
+  "db": "",
+  "email": "admin@Admin.com",
+  "frontendUrl": "http://localhost:4200/"
+}
